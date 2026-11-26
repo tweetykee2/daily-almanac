@@ -1,2 +1,2 @@
-# -daily-almanac
+# daily-almanac
  daily-almanac
